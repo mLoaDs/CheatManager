@@ -1,4 +1,4 @@
-# CheatManager
+# CheatManager v0.5b
  Cheat-Manager by Gavin_Darkglider
 
 This is a revised version 
