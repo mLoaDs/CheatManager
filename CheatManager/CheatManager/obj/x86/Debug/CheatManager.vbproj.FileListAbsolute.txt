@@ -1,0 +1,15 @@
+c:\users\home\documents\visual studio 2010\Projects\CheatManager\CheatManager\obj\x86\Debug\CheatManager.Form1.resources
+c:\users\home\documents\visual studio 2010\Projects\CheatManager\CheatManager\obj\x86\Debug\CheatManager.Resources.resources
+c:\users\home\documents\visual studio 2010\Projects\CheatManager\CheatManager\obj\x86\Debug\CheatManager.vbproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2010\Projects\CheatManager\CheatManager\obj\x86\Debug\CheatManager.frmAbout.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\CheatManager\CheatManager\obj\x86\Debug\CheatManager.frmCheat.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\CheatManager\CheatManager\obj\x86\Debug\CheatManager.frmExport.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\CheatManager\CheatManager\obj\x86\Debug\CheatManager.frmFTP.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\CheatManager\CheatManager\obj\x86\Debug\CheatManager.FrmGame.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\CheatManager\CheatManager\obj\x86\Debug\CheatManager.frmGG2Hex.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\CheatManager\CheatManager\obj\x86\Debug\CheatManager.frmImport.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\CheatManager\CheatManager\obj\x86\Debug\CheatManager.frmMain.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\CheatManager\CheatManager\obj\x86\Debug\CheatManager.frmProgress.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\CheatManager\CheatManager\obj\x86\Debug\CheatManager.frmSettings.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\CheatManager\CheatManager\bin\Debug\CheatManager.exe.config
+C:\Users\Home\Documents\Visual Studio 2010\Projects\CheatManager\CheatManager\obj\x86\Debug\CheatManager.vbprojResolveAssemblyReference.cache
