@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CheatManager.My.MyApplication" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApplicationEvents.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheatManager.My.MySettings" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABAAIAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheatManager.Form1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAAAAIACAEAACAAAgAAAAAAYAAAAAAAA=</HashCode>
+      <FileName>Form1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheatManager.frmAbout" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAAAAAAECAAAACAAAAQAAAAIAAAAAAAAA=</HashCode>
+      <FileName>frmAbout.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheatManager.frmCheat" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEDAAABAAAACAAAACEAAAQCABCIAAAAAAAQA=</HashCode>
+      <FileName>frmCheatEdit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheatManager.frmExport" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAIAAAAACIAAAAAAACAABkCgABAYAABAGAAAAAAAAg=</HashCode>
+      <FileName>frmExport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheatManager.frmFTP" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABQECAQAAAACACIAAhCAABwYAQAkMAAABAAAAA=</HashCode>
+      <FileName>frmFTP.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheatManager.FrmGame" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFDAAAAECAAACAAAAyAAAADAOAAYAQAAcAAIAAAAAA=</HashCode>
+      <FileName>frmGameEdit.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheatManager.frmGG2Hex" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAEiAAAAAAACGAAAgCAEAEQAAAAMAAAAAAAAA=</HashCode>
+      <FileName>frmGG2Hex.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheatManager.frmImport" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmImport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheatManager.frmMain" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgEgIAQGCAFMEAQAgCAYAgCAAgA4AAgAEYAAhgGBAI=</HashCode>
+      <FileName>frmMain.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheatManager.frmProgress" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACAAEAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmProgress.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheatManager.frmSettings" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAAAAQAECAAIAAAAACAAAACAQEAYAAAFIAEABAmAAQ=</HashCode>
+      <FileName>frmSettings.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="CheatManager.My.MySettingsProperty" Collapsed="true">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="CheatManager.Cheat_Functions" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAABAAAEEAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Cheat_Functions.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="CheatManager.modDB" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAjCABAAAEIABggAAACAAAAAAAIAAAAAAAAAQAACIA=</HashCode>
+      <FileName>DBFunctions.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="CheatManager.Export_Functions" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgAACAAAAQAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Export_Functions.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="CheatManager.modHash" Collapsed="true">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAIQAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hash_Functions.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="CheatManager.Import_Functions" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Import_Functions.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="CheatManager.MiscFunctions" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAIAAAA=</HashCode>
+      <FileName>Misc_Funcs.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="CheatManager.FTPFunctions" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBAIABACAAAAAAEAAAEAAAAYAAAAAAAAAAEAiAARAEw=</HashCode>
+      <FileName>modFTP.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="CheatManager.modGGconverter" Collapsed="true">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAIAAAIEAgAABIAEAAEAAAAIEQICBEAABAAApABA=</HashCode>
+      <FileName>Module4.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="CheatManager.My.Resources.Resources" Collapsed="true">
+    <Position X="2.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
